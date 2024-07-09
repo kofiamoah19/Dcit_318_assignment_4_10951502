@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginScreenApplication/1.0.0": {
+        "runtime": {
+          "LoginScreenApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginScreenApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
