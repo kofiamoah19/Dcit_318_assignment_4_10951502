@@ -1,0 +1,16 @@
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\bin\Debug\net8.0-windows\AddressBookApplication.exe
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\bin\Debug\net8.0-windows\AddressBookApplication.deps.json
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\bin\Debug\net8.0-windows\AddressBookApplication.runtimeconfig.json
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\bin\Debug\net8.0-windows\AddressBookApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\bin\Debug\net8.0-windows\AddressBookApplication.pdb
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.Form1.resources
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.csproj.GenerateResource.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.AssemblyInfoInputs.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.AssemblyInfo.cs
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\refint\AddressBookApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.pdb
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\AddressBookApplication.genruntimeconfig.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\AddressBook\AddressBookApplication\obj\Debug\net8.0-windows\ref\AddressBookApplication.dll
