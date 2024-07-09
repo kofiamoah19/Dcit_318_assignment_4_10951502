@@ -1,0 +1,16 @@
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawingApplication.Form1.resources
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.csproj.GenerateResource.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.AssemblyInfoInputs.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.AssemblyInfo.cs
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.csproj.CoreCompileInputs.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\bin\Debug\net8.0-windows\CanvasDrawinApplication.exe
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\bin\Debug\net8.0-windows\CanvasDrawinApplication.deps.json
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\bin\Debug\net8.0-windows\CanvasDrawinApplication.runtimeconfig.json
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\bin\Debug\net8.0-windows\CanvasDrawinApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\bin\Debug\net8.0-windows\CanvasDrawinApplication.pdb
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\refint\CanvasDrawinApplication.dll
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.pdb
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\CanvasDrawinApplication.genruntimeconfig.cache
+C:\Users\APPIAH\Desktop\Csharp.kofi\CanvasDrawingApplication\CanvasDrawinApplication\obj\Debug\net8.0-windows\ref\CanvasDrawinApplication.dll
